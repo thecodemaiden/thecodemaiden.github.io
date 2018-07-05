@@ -1,0 +1,55 @@
+body
+{
+}
+
+  .solid {
+        border-style: solid;
+        border-width: 1px;
+        padding: 5px;
+    }
+
+  .container{
+      margin: 1em 2em;
+      font-family:'Open Sans', sans-serif;
+  }
+
+img.profile 
+{
+    min-height:80px;
+    max-height:200px;
+}
+
+.page-header 
+{
+    margin-bottom: 1em;
+    background-color:#b00;
+    width:80%;
+    height:2em;
+    line-height:2em;
+}
+h1.page-header
+{
+    color:#fff;
+}
+
+ul.wide-list
+{
+    list-style-type:none;
+    padding:0;
+}
+
+ul.wide-list li
+{
+    display:inline;
+    padding-right:2em;
+}
+
+.research
+{
+
+}
+
+.vcenter
+{
+        top:50%;
+}
