@@ -11,42 +11,28 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+B.S. in Electrical and Computer Engineering, Carnegie Mellon University, 2010
+  * University Honors
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+M.S. in Electrical and Computer Engineering, Carnegie Mellon University, 2014
+  * Eta Kappa Nu
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+Ph.D in Electrical and Computer Engineering, Carnegie Mellon University, 2021 (expected)
+
+
+Research Interests
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
+Cyber-Physical Systems
+  * Indoor control/navigation for small quadcopters
+  * Internet of Things
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+
   
 Teaching
 ======
@@ -54,6 +40,46 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+
+Work experience
 ======
-* Currently signed in to 43 different slack teams
+
+### Research Assistant <br/>UCLA REMAP, Jun 2014-Dec 2014
+   * Designed and implemented a toolkit for introducing Raspberry Pi users to Internet of Things applications of Named Data Networking
+   * Assisted with implementation, documentation and testing of open source Python and Javascript libraries for NDN
+   * Analyzed NDN network performance w.r.t. speed, complexity, and resource use in comparison to other IoT frameworks
+
+
+### Mobile Developer<br/>Brit Media, Aug 2012-Mar 2013
+   * Updated the Brit + Co. iOS and Android apps
+   * Integrated analytics, bug tracking and other third-party frameworks
+
+
+### iOS Engineer<br/>Callaway Digital Arts, Nov 2011-Jul 2012
+   * Contributed to a powerful in-house animation engine used in several children's books and activity apps
+   * Ported the animation engine to Android in C++ through the Android NDK
+
+
+### iOS SW Engineer<br/>Apple, Aug 2010-Oct 2011
+   * Contributed to development of iOS 5 SpringBoard/Home Screen
+   * Debugged and integrated new features such as the notification center and Siri
+
+
+Memberships
+======
+### ACM
+  * ACM Women in Computing
+  * SIGMOBILE
+  * SIGBED
+
+### IEEE
+  * Computer Society
+  * Women in Engineering
+  * Communications Society
+  * Computational Intelligent Society
+  * Signal Processing Society
+  * Eta Kappa Nu
+
+### NSBE
+  * CMU Chapter Secretary, 2009-2010
+  * CMU Academic Excellence Chair, 2008-2009
