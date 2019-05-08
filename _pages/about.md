@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Adeola Bannis's professional/academic web presence "
+title: "Internet of Little Mobile Things"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
