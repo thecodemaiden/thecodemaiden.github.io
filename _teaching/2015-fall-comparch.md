@@ -1,7 +1,7 @@
 ---
-title: "Foundations of Computer Architecture"
+title: "Foundations of Computer Architecture (18-640)"
 collection: teaching
-type: "Graduate course"
+type: "Graduate"
 permalink: /teaching/2015-fall-comparch
 venue: "Carnegie Mellon University"
 date: 2015-08-26
